@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# this is a seed -- locking packages is probably silly
+package-lock.json
+
+# vim
+*.un~
+*.swp
